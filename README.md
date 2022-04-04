@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ElCopias
 - 👀 I’m interested in Python, JavaScript, C# and videogames 
 - 🌱 I’m currently learning Python and JavaScript, C# and videogames
-- 📫 How to reach me elc0pias2007@gmail.com
+- 📫 How to reach me esanchezherrera3004@gmail.com
